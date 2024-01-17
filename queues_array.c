@@ -19,7 +19,7 @@ int main()
     printf("Welcome to DataFlair tutorials!\n\n");
 
     printf("ARRAY IMPLEMENTATION OF QUEUES\n\n");
-    front = rear = -1; // Initialzing front and rear to -1 indicates that it is empty
+    front = rear = -1;
     do
     {
 
